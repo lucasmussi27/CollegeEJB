@@ -1,0 +1,6 @@
+com\mycompany\mavenproject1\controller\DepartmentBean.class
+com\mycompany\mavenproject1\dao\DepartmentDAO.class
+com\mycompany\mavenproject1\model\Department.class
+com\mycompany\mavenproject1\service\DepartmentService.class
+com\mycompany\mavenproject1\dao\GenericDAO.class
+com\mycompany\mavenproject1\model\Department$DepartmentBuilder.class
